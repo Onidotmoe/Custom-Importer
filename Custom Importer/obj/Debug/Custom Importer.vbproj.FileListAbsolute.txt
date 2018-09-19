@@ -1,0 +1,15 @@
+C:\Users\Yami\source\repos\Custom Importer\Custom Importer\bin\Debug\Custom Importer.dll
+C:\Users\Yami\source\repos\Custom Importer\Custom Importer\bin\Debug\Custom Importer.pdb
+C:\Users\Yami\source\repos\Custom Importer\Custom Importer\bin\Debug\Custom Importer.xml
+C:\Users\Yami\source\repos\Custom Importer\Custom Importer\bin\Debug\MonoGame.Framework.Content.Pipeline.dll
+C:\Users\Yami\source\repos\Custom Importer\Custom Importer\bin\Debug\MonoGame.Framework.dll
+C:\Users\Yami\source\repos\Custom Importer\Custom Importer\bin\Debug\MonoGame.Framework.xml
+C:\Users\Yami\source\repos\Custom Importer\Custom Importer\bin\Debug\MonoGame.Framework.Content.Pipeline.xml
+C:\Users\Yami\source\repos\Custom Importer\Custom Importer\obj\Debug\Custom Importer.vbprojResolveAssemblyReference.cache
+C:\Users\Yami\source\repos\Custom Importer\Custom Importer\obj\Debug\Custom_Importer.Resources.resources
+C:\Users\Yami\source\repos\Custom Importer\Custom Importer\obj\Debug\Custom Importer.vbproj.GenerateResource.cache
+C:\Users\Yami\source\repos\Custom Importer\Custom Importer\obj\Debug\Custom Importer.vbproj.CoreCompileInputs.cache
+C:\Users\Yami\source\repos\Custom Importer\Custom Importer\obj\Debug\Custom Importer.vbproj.CopyComplete
+C:\Users\Yami\source\repos\Custom Importer\Custom Importer\obj\Debug\Custom Importer.dll
+C:\Users\Yami\source\repos\Custom Importer\Custom Importer\obj\Debug\Custom Importer.xml
+C:\Users\Yami\source\repos\Custom Importer\Custom Importer\obj\Debug\Custom Importer.pdb

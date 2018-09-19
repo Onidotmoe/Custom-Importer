@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Custom Importer
+</name>
+</assembly>
+<members>
+<member name="T:CustomImporter.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CustomImporter.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CustomImporter.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:CustomImporter.StringWriter.Write(Microsoft.Xna.Framework.Content.Pipeline.Serialization.Compiler.ContentWriter,System.Char[])">
+ <remarks>We have to use a Char array instead of a String otherwise we'll get a "Key already added" error in the pipeline tool.</remarks>
+</member>
+</members>
+</doc>
