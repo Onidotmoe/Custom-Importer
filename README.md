@@ -1,4 +1,4 @@
-# Custom-Importer
+# Custom Importer
 Custom Importers for Monogame's Pipeline tool.
 
 ## Byte Importer
