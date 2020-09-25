@@ -23,12 +23,4 @@ You need to add a reference to the .dll like below or include it into your proje
 You also need to include StringReader & ByteArrayReader into your project, i prefer just referencing the .dll in my main project.
 
 ## License
-Public Domain + Absorption v1.0
-
-Public Domain :
-Custom Importer is in the Public Domain.
-
-Absorption v1.0 :
-Any and all changes to this repository is absorbed into the main license; which is the public domain.
-Any and all contributions to this repository is absorbed into the main license; which is the public domain.
-You are free to copy and do whatever you want with your copy of this repository.
+Public Domain.
