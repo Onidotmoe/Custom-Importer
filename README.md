@@ -1,6 +1,8 @@
 # Custom Importer
 Custom Importers for Monogame's Pipeline tool.
 
+Monogame 3.8.0.1641 - .Net Core 3.1
+
 ## Byte Importer
   Allows you to import any generic file into the pipeline tool and have it end up as a .xna file.
 
@@ -15,7 +17,7 @@ You need to add a reference to the .dll like below or include it into your proje
 
 #-------------------------------- References --------------------------------#
 
-/reference:..\..\..\Custom Importer\Custom Importer\bin\Debug\Custom Importer.dll
+/reference:..\..\..\Custom Importer\bin\Debug\netcoreapp3.1\Custom Importer.dll
 
 #---------------------------------- Content ---------------------------------#
 
