@@ -1,7 +1,7 @@
-﻿Imports System.IO
-Imports Microsoft.Xna.Framework.Content
+﻿Imports Microsoft.Xna.Framework.Content
 Imports Microsoft.Xna.Framework.Content.Pipeline
 Imports Microsoft.Xna.Framework.Content.Pipeline.Serialization.Compiler
+Imports System.IO
 
 <ContentImporter(".*", DefaultProcessor:=NameOf(ByteArrayProcessor), DisplayName:="Byte Importer - Custom Importer")>
 Public Class ByteImporter

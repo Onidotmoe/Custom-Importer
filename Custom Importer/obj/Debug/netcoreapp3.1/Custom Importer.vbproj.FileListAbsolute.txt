@@ -1,0 +1,9 @@
+C:\Users\Yami\source\repos\Custom Importer\bin\Debug\netcoreapp3.1\Custom Importer.deps.json
+C:\Users\Yami\source\repos\Custom Importer\bin\Debug\netcoreapp3.1\Custom Importer.dll
+C:\Users\Yami\source\repos\Custom Importer\bin\Debug\netcoreapp3.1\Custom Importer.pdb
+C:\Users\Yami\source\repos\Custom Importer\obj\Debug\netcoreapp3.1\Custom Importer.vbprojAssemblyReference.cache
+C:\Users\Yami\source\repos\Custom Importer\obj\Debug\netcoreapp3.1\Custom Importer.AssemblyInfoInputs.cache
+C:\Users\Yami\source\repos\Custom Importer\obj\Debug\netcoreapp3.1\Custom Importer.AssemblyInfo.vb
+C:\Users\Yami\source\repos\Custom Importer\obj\Debug\netcoreapp3.1\Custom Importer.vbproj.CoreCompileInputs.cache
+C:\Users\Yami\source\repos\Custom Importer\obj\Debug\netcoreapp3.1\Custom Importer.dll
+C:\Users\Yami\source\repos\Custom Importer\obj\Debug\netcoreapp3.1\Custom Importer.pdb

@@ -1,7 +1,7 @@
-﻿Imports System.IO
-Imports Microsoft.Xna.Framework.Content
+﻿Imports Microsoft.Xna.Framework.Content
 Imports Microsoft.Xna.Framework.Content.Pipeline
 Imports Microsoft.Xna.Framework.Content.Pipeline.Serialization.Compiler
+Imports System.IO
 
 <ContentImporter(".txt", DefaultProcessor:=NameOf(StringProcessor), DisplayName:="String Importer - Custom Importer")>
 Public Class StringImporter
@@ -21,6 +21,7 @@ Public Class StringProcessor
     Public Overrides Function Process(Input As String, Context As ContentProcessorContext) As String
         Try
             Context.Logger.LogMessage("Processing Strings")
+
             Return Input
         Catch ex As Exception
             Context.Logger.LogMessage("Error {0}", ex)
